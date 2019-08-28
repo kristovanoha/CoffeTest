@@ -6,6 +6,8 @@ namespace GitTestCoffe
     {
         static void Main(string[] args)
         {
+
+            //tohle je z kopie
             /// adf
             //novinka
             Console.WriteLine("Hello World coffe i love!");
