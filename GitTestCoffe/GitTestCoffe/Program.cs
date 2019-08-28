@@ -6,7 +6,7 @@ namespace GitTestCoffe
     {
         static void Main(string[] args)
         {
-
+            /// adf
             //novinka
             Console.WriteLine("Hello World coffe i love!");
         }
