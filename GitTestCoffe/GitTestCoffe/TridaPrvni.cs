@@ -8,5 +8,10 @@ namespace GitTestCoffe
     //pevny
     class TridaPrvni
     {
+        public string test()
+        {
+            return "pevny";
+        }
+
     }
 }
