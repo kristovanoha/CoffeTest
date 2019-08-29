@@ -22,7 +22,7 @@ namespace GitTestCoffe
 
         public void branchMetoda()
         {
-
+            //  nejaky pridavek pro fetch v branchi
             //tohle bude v brachni
         }
     }
