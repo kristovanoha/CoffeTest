@@ -7,6 +7,7 @@ namespace GitTestCoffe
         static void Main(string[] args)
         {
 
+            //z pervneh
             //tohle je z kopie
             /// adf
             //novinka
