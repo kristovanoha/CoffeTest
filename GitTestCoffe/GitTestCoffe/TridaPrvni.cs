@@ -18,5 +18,12 @@ namespace GitTestCoffe
         {
             return notas;
         }
+
+
+        public void branchMetoda()
+        {
+
+            //tohle bude v brachni
+        }
     }
 }
