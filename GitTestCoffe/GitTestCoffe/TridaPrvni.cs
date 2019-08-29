@@ -16,7 +16,7 @@ namespace GitTestCoffe
 
         public string test2()
         {
-            return "oprava";
+            return "oprava a tohle je nahrada";
         }
 
 
