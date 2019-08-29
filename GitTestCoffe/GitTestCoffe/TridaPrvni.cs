@@ -13,5 +13,10 @@ namespace GitTestCoffe
             return "pevny";
         }
 
+
+        public string test()
+        {
+            return notas;
+        }
     }
 }
