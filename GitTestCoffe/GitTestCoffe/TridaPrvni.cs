@@ -18,5 +18,12 @@ namespace GitTestCoffe
         {
             return "oprava";
         }
+
+
+        public void branchMetoda()
+        {
+            //  nejaky pridavek pro fetch v branchi
+            //tohle bude v brachni
+        }
     }
 }
