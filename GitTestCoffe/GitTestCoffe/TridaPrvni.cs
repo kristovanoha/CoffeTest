@@ -13,6 +13,8 @@ namespace GitTestCoffe
             return "pevny";
         }
 
+
+        //na rebase
         //dalsi s branche
         public string test2()
         {
