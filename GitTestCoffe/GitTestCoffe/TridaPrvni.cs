@@ -20,6 +20,12 @@ namespace GitTestCoffe
         }
 
 
+        public void PosledniVerze()
+        {
+            var = 4;
+        }
+
+
         public void branchMetoda()
         {
             //  nejaky pridavek pro fetch v branchi
