@@ -14,9 +14,9 @@ namespace GitTestCoffe
         }
 
 
-        public string test()
+        public string test2()
         {
-            return notas;
+            return "oprava";
         }
     }
 }
